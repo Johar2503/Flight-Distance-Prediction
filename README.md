@@ -1,3 +1,4 @@
+# Flight-Distance-Prediction
 ✈️ Flight Distance Prediction
 Predicting flight distances is a critical task in the aviation industry, with applications in fuel estimation, route planning, scheduling, and improving passenger experience. This project builds a machine learning model to predict the distance between two airports using various geographical and operational features.
 
@@ -47,9 +48,9 @@ Encoded categorical features where necessary
 2. ⚙️ Model Development
 Implemented machine learning models:
 
-Random Forest Regressor
+Linear Regression
 
-XGBoost Regressor
+Random Forest Regressor
 
 3. 🔧 Model Optimization
 Applied Grid Search CV for hyperparameter tuning
