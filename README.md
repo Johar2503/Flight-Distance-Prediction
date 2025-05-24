@@ -1,3 +1,4 @@
+open master branch for the files and data
 # Flight-Distance-Prediction
 ✈️ Flight Distance Prediction
 Predicting flight distances is a critical task in the aviation industry, with applications in fuel estimation, route planning, scheduling, and improving passenger experience. This project builds a machine learning model to predict the distance between two airports using various geographical and operational features.
